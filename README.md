@@ -1,1 +1,1 @@
-Make updates and create a new release v2.0.0
+Release v3.0.0
